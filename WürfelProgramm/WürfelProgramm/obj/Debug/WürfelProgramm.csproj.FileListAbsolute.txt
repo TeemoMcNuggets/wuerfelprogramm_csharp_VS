@@ -1,0 +1,6 @@
+C:\Users\Dennis\Desktop\Visual Studio Projects\WürfelProgramm\WürfelProgramm\bin\Debug\WürfelProgramm.exe.config
+C:\Users\Dennis\Desktop\Visual Studio Projects\WürfelProgramm\WürfelProgramm\bin\Debug\WürfelProgramm.exe
+C:\Users\Dennis\Desktop\Visual Studio Projects\WürfelProgramm\WürfelProgramm\bin\Debug\WürfelProgramm.pdb
+C:\Users\Dennis\Desktop\Visual Studio Projects\WürfelProgramm\WürfelProgramm\obj\Debug\WürfelProgramm.csprojResolveAssemblyReference.cache
+C:\Users\Dennis\Desktop\Visual Studio Projects\WürfelProgramm\WürfelProgramm\obj\Debug\WürfelProgramm.exe
+C:\Users\Dennis\Desktop\Visual Studio Projects\WürfelProgramm\WürfelProgramm\obj\Debug\WürfelProgramm.pdb
